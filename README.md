@@ -28,7 +28,7 @@ I'm Ane, what's up? ✨<br>
   <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
   <img align="center" alt="Sass" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" />
 </div>
-<br><br><br>
+<br><br>
 <div style="grid-area: item1;">
 
 <br>
