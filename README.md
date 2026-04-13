@@ -1,7 +1,7 @@
 <h1>Hello world!</h1>
-<i>I'm Ane, what's up? ✨</i><br>
+<i>I'm Ane, what's up? ✨</i><br><br>
 
-![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)<br>
+![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)<br><br>
 
 <div style="grid-area: item1;">
   <sub><i>My stacks</i></sub><br>
