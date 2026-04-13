@@ -1,5 +1,5 @@
 <h1> Hello world! </h1><br>
-I'm Ane, what's up? ✨<br>
+<h3>I'm Ane, what's up? ✨</h3><br>
 
 ![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)<br>
 
@@ -10,7 +10,7 @@ I'm Ane, what's up? ✨<br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
-<br><br><br>
+<br><br>
 
 <div style="grid-area: item1;">
 
@@ -31,7 +31,6 @@ I'm Ane, what's up? ✨<br>
 <br><br>
 <div style="grid-area: item1;">
 
-<br>
 <sub><i>Let's connect! 📫</i></sub>
 <br><br>
 
