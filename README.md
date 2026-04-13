@@ -1,7 +1,7 @@
-<h1> Hello world! </h1>
-I'm Ane, what's up? ✨
+<h1> Hello world! </h1><br>
+I'm Ane, what's up? ✨<br>
 
-![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)
+![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)<br>
 
 <div style="grid-area: item1;">
   <sub><i>My stacks</i></sub><br><br>
@@ -10,6 +10,7 @@ I'm Ane, what's up? ✨
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
+<br><br><br>
 
 <div style="grid-area: item1;">
 
@@ -27,7 +28,7 @@ I'm Ane, what's up? ✨
   <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
   <img align="center" alt="Sass" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" />
 </div>
-
+<br><br><br>
 <div style="grid-area: item1;">
 
 <br>
