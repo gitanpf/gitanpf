@@ -1,5 +1,4 @@
-<h1>Hello world!</h1>
-<i>I'm Ane, what's up? ✨</i><br><br>
+<h1>Hello world! ✨</h1><br><br>
 
 ![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)<br><br>
 
