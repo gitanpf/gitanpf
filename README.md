@@ -16,11 +16,3 @@ Atualmente, dedico meus estudos a dominar a base do desenvolvimento Front-end pa
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
----
-
-### ⚡ Curiosidades
-
-|                      |                                                                              |
-| :------------------- | :--------------------------------------------------------------------------- |
-| **♟️ Xadrez**        | Adoro os desafios estratégicos do tabuleiro nas horas vagas.                 |
-| **🍿 Animes & Tech** | Fascinada por animes e apaixonada por acompanhar as últimas tendências tech. |
