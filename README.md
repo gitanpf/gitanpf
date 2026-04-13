@@ -4,7 +4,7 @@
 ![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)
 
  <div style="grid-area: item1;">
- _My stacks_
+ ##My stacks
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,7 +13,7 @@
 
     
   <div style="grid-area: item2;">
- _My toolkit_
+ ##My toolkit
         <img align="center" alt="Next.js" height="30" width="40" src="https://img.shields.io/badge/-%23000000?style=flat-square&logo=nextdotjs&logoColor=white">
        <img align="center" alt="Tailwind" height="30" width="40" src="https://img.shields.io/badge/-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
         <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -27,10 +27,11 @@
         <img align="center" alt="Sass" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width='50px'/>
     </div>
     
-_Let's connect!_📫
+##Let's connect! 📫
+
 <a href="https://www.linkedin.com/in/anpf/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</a> | 
 <a href="mailto:contato.anpf@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
