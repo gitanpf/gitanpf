@@ -11,6 +11,8 @@
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
+---
+
 <div style="grid-area: item2;">
   <sub><i>My toolkit</i></sub><br>
   <img align="center" alt="Next.js" height="30" width="40" src="https://img.shields.io/badge/-%23000000?style=flat-square&logo=nextdotjs&logoColor=white">
@@ -25,6 +27,8 @@
   <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
   <img align="center" alt="Sass" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" />
 </div>
+
+---
 
 <br>
 <sub><i>Let's connect! 📫</i></sub>
