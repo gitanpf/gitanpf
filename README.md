@@ -11,7 +11,7 @@
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
----
+<div style="grid-area: item1;">
 
 <div style="grid-area: item2;">
   <sub><i>My toolkit</i></sub><br>
@@ -28,7 +28,7 @@
   <img align="center" alt="Sass" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" />
 </div>
 
----
+<div style="grid-area: item1;">
 
 <br>
 <sub><i>Let's connect! 📫</i></sub>
@@ -36,7 +36,7 @@
 
 <a href="https://www.linkedin.com/in/anpf/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a> | 
+</a> 
 <a href="mailto:contato.anpf@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
