@@ -3,7 +3,6 @@
 ![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)
 _Apaixonada por interfaces intuitivas e a união entre código e design._
 
-(https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
