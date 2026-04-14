@@ -1,4 +1,4 @@
-<h1>Hello world! ✨</h1><br>
+<h1>Hello world! ✨</h1> <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="100"> <br> 
 
 ![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)<br>
 
@@ -38,5 +38,3 @@
 <a href="mailto:contato.anpf@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
-<img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="100">
