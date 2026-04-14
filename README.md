@@ -16,7 +16,7 @@
 <div style="grid-area: item2;">
   <sub><i>My toolkit</i></sub><br><br>
   <img align="center" alt="Next.js" height="30" width="40" src="https://img.shields.io/badge/-%23000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://img.shields.io/badge/-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/38B2AC">
   <img align="center" alt="React" height="30" width="40" src="https://img.shields.io/badge/-%2320232A?style=flat-square&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
