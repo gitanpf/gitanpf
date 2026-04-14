@@ -1,5 +1,4 @@
-<body style="background-image: url('https://developer.mozilla.org/en-US/blog/announcing-mdn-front-end-developer-curriculum/mandala.png'); background-size: cover; background-attachment: fixed;">
-    <h1>Hello world! ✨</h1><br>
+<h1>Hello world! ✨</h1><br>
 
 ![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)<br>
 
@@ -41,4 +40,3 @@
 </a>
 
 <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="100">
-</body>
