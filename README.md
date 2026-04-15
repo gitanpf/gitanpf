@@ -3,7 +3,7 @@
 ![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)<br>
 
 <div style="grid-area: item1;">
-  <sub><i>My stacks</i></sub><br><br>
+  <i>My stacks</i><br><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,7 +14,7 @@
 <div style="grid-area: item1;">
 
 <div style="grid-area: item2;">
-  <sub><i>My toolkit</i></sub><br><br>
+  <i>My toolkit</i><br><br>
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.simpleicons.org/nextdotjs">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/38B2AC">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.simpleicons.org/react/61DAFB">
@@ -31,7 +31,7 @@
 <br><br>
 <div style="grid-area: item1;">
 
-<sub><i>Let's connect! 📫</i></sub><br><br>
+<i>Let's connect! 📫</i><br><br>
 <a href="https://www.linkedin.com/in/anpf/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> 
