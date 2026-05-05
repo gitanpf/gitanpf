@@ -4,7 +4,7 @@
 
   <a href="https://gitanpf.github.io/portfolio/" target="_blank">✨ My portfolio link ✨</a>
   
----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gitanpf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 My stacks & toolkit
 <p align="left">
