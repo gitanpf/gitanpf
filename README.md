@@ -12,12 +12,12 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitanpf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitanpf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanpf&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Langs" />
+</div>
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanpf&layout=compact&theme=dracula&hide=php,c" alt="Linguagens mais usadas" />
