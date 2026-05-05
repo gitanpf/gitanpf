@@ -19,7 +19,7 @@
 
 
 <p align="center">
-🎀 Languages & Styles
+🎀 Languages & Styles<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" height="35"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="35"> 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-⭐ Frameworks & Libs
+⭐ Frameworks & Libs<br>
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="35"> 
   <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" height="35"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" height="35">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
- 🛠️ Tools & Workflow
+ 🛠️ Tools & Workflow<br>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="35"> 
@@ -50,7 +50,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-📫 Let's connect!
+📫 Let's connect!<br>
   <a href="https://www.linkedin.com/in/anpf/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
