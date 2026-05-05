@@ -16,6 +16,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<p align="center">
 ### 🚀 My stacks & toolkit
 
 **🎀 Languages & Styles**
@@ -56,3 +57,5 @@
   <a href="mailto:contato.anpf@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+
+  </p>
