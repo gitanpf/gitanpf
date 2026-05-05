@@ -5,16 +5,14 @@
   <br>
 
   <!-- TERMINAL ANIMADO -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=450&lines=%3E_Hello+world!;%3E_Welcome+to+my+profile!;%3E_coding+with+love+%F0%9F%92%96" alt="Terminal Typing" />
-
-  <!-- GIF FOFO ABAIXO DO TERMINAL (Melhor para não quebrar alinhamento) -->
-  <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="100" alt="Cinnamoroll">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=450&lines=%3E_Hello+world!;%3E_Welcome+to+my+profile!;%3E_coding+with+love+<3" alt="Terminal Typing" />
+  <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="80" alt="Cinnamoroll">
 
 
 ### 🚀 My stacks & toolkit
 
 **🎀 Languages & Styles**
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" height="35"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="35"> 
@@ -26,7 +24,7 @@
 <br>
 
 **⭐ Frameworks & Libs**
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="35"> 
   <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" height="35"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" height="35">
@@ -39,7 +37,7 @@
 <br>
 
 **🛠️ Tools & Workflow**
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="35"> 
@@ -50,7 +48,7 @@
 <br>
 
 ### 📫 Let's connect!
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anpf/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
