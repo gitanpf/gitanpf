@@ -2,19 +2,13 @@
   <!-- BANNER SUPERIOR -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhxMzBzMzBwMzB5MzByMzBkMzBxMzByMzByMzBkMzBxMzBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWPaqY0/giphy.gif" width="100%" alt="Banner Topo">
 
-  <br><br>
+  <br>
 
-  <!-- SEÇÃO TERMINAL + GIF SEM BORDAS -->
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr align="center">
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=98C379&width=450&lines=%3E_Hello+world!;%3E_Welcome+to+my+profile!;%3E_coding+with+love+%F0%9F%92%96" alt="Terminal Typing" />
-      </td>
-      <td>
-        <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="120" alt="Gatinho Acenando">
-      </td>
-    </tr>
-  </table>
+  <!-- TERMINAL ANIMADO -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=450&lines=%3E_Hello+world!;%3E_Welcome+to+my+profile!;%3E_coding+with+love+%F0%9F%92%96" alt="Terminal Typing" />
+
+  <!-- GIF FOFO ABAIXO DO TERMINAL (Melhor para não quebrar alinhamento) -->
+  <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="100" alt="Cinnamoroll">
 
   <br>
 
@@ -32,16 +26,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gitanpf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
-      </td>
-      <td>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanpf&layout=compact&theme=dracula&cache_seconds=1800" />
-      </td>
-    </tr>
-  </table>
+  <!-- Estatísticas sem tabela para não quebrar -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gitanpf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanpf&layout=compact&theme=dracula&cache_seconds=1800" />
 </div>
 
 ---
