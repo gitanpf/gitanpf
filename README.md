@@ -2,6 +2,8 @@
 
 ![Banner de boas-vindas](https://img.shields.io/badge/Front--end%20Developer%20in%20Progress-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%230a0a0a)
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gitanpf&show_icons=true&theme=dracula)
+
   <a href="https://gitanpf.github.io/portfolio/" target="_blank">✨ My portfolio link ✨</a>
 
 
