@@ -10,28 +10,6 @@
   <!-- GIF FOFO ABAIXO DO TERMINAL (Melhor para não quebrar alinhamento) -->
   <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="100" alt="Cinnamoroll">
 
-  <br>
-
-  <!-- BADGES DE STATUS -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/FRONT--END%20DEV-%F0%9F%91%BE-black?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/CODEFORCES-%23212121.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <a href="https://gitanpf.github.io/portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/%E2%9C%A8%20My%20portfolio%20link%20%E2%9C%A8-E6E6FA?style=for-the-badge&labelColor=white&color=E6E6FA" />
-    </a>
-  </p>
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <!-- Estatísticas sem tabela para não quebrar -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gitanpf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanpf&layout=compact&theme=dracula&cache_seconds=1800" />
-</div>
-
----
 
 ### 🚀 My stacks & toolkit
 
@@ -45,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="Less" height="35">
 </p>
 
+<br>
+
 **⭐ Frameworks & Libs**
 <p align="left">
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="35"> 
@@ -56,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" height="35"> 
 </p>
 
+<br>
+
 **🛠️ Tools & Workflow**
 <p align="left">
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="35">
@@ -65,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" alt="Grunt" height="35"> 
 </p>
 
----
+<br>
 
 ### 📫 Let's connect!
 <p align="left">
