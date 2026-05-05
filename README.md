@@ -5,7 +5,7 @@
   <br>
 
 
- <p align="center">
+<p align="center">
     <img src="https://img.shields.io/badge/FRONT--END%20DEV-%F0%9F%8E%80-FFD1DC?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Estudante-EBAC-E6E6FA?style=for-the-badge" />
     <a href="https://gitanpf.github.io/portfolio/" target="_blank">
@@ -17,10 +17,9 @@
 </div>
 
 
-### 🚀 My stacks & toolkit
 
-**🎀 Languages & Styles**
-<p align="left">
+<p align="center">
+🎀 Languages & Styles
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" height="35"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="35"> 
@@ -29,8 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="Less" height="35">
 </p>
 
-**⭐ Frameworks & Libs**
-<p align="left">
+<p align="center">
+⭐ Frameworks & Libs
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="35"> 
   <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" height="35"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" height="35">
@@ -39,8 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="35"> 
 </p>
 
-**🛠️ Tools & Workflow**
-<p align="left">
+<p align="center">
+ 🛠️ Tools & Workflow
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="35"> 
@@ -50,12 +49,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📫 Let's connect!
+<p align="center">
+📫 Let's connect!
   <a href="https://www.linkedin.com/in/anpf/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:contato.anpf@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+</p>
 
   </p>
