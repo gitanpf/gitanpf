@@ -2,18 +2,16 @@
   <!-- BANNER SUPERIOR -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhxMzBzMzBwMzB5MzByMzBkMzBxMzByMzByMzBkMzBxMzBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWPaqY0/giphy.gif" width="100%" alt="Banner Topo">
 
-  <br>
+  <br><br>
 
-  <h2 align="left">## Hello, World!</h2>
-
-  <!-- SEÇÃO TERMINAL + GIF LADO A LADO -->
-  <table border="0" width="100%">
+  <!-- SEÇÃO TERMINAL + GIF SEM BORDAS -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr align="center">
       <td>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=98C379&width=450&lines=%3E_Hello+world!;%3E_Welcome+to+my+profile!;%3E_coding+with+love+%F0%9F%92%96" alt="Terminal Typing" />
       </td>
       <td>
-        <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="120" style="border-radius: 10px;" alt="Gatinho Acenando">
+        <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" width="120" alt="Gatinho Acenando">
       </td>
     </tr>
   </table>
