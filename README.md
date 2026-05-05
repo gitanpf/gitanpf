@@ -13,7 +13,7 @@
   <br>
 
 
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/FRONT--END%20DEV-%F0%9F%8E%80-FFD1DC?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Estudante-EBAC-E6E6FA?style=for-the-badge" />
     <a href="https://gitanpf.github.io/portfolio/" target="_blank">
