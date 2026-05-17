@@ -39,12 +39,14 @@
 </p>
 
 <p align="center">
- 🛠️ Tools & Workflow<br>
+  🛠️ Tools & Workflow<br>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Gulp" height="35"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" alt="Grunt" height="35"> 
+  <img src="https://cdn.simpleicons.org/figma/C21325" alt="Jest" height="35"> 
+  <img src="https://cdn.simpleicons.org/figma/69C393" alt="Cypress" height="35">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
